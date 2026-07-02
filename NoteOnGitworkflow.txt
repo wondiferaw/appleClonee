@@ -1,0 +1,4 @@
+git clone https://github.com/wondiferaw/appleClonee
+git commit –m // commiting
+git add . // add everything in the current folder.
+git status // check the the files in the dirctory.
